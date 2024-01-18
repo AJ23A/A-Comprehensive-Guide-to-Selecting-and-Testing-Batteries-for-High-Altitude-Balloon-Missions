@@ -1,6 +1,6 @@
 # 📄 A Comprehensive Guide to Selecting and Testing Batteries for High-Altitude Balloon Missions
 
-<h3 align="left">Author: Josué Romeo Aldana Aguilar </h3>
+<h3 align="left">Author: Josue Aldana-Aguilar </h3>
 <p align="left">
 
 # 🛰️ About Me 🔭:
